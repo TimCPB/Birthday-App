@@ -1,6 +1,5 @@
 # Birthday-App
-B
-uild a web app that will ask the user for a name and birthday.
+Build a web app that will ask the user for a name and birthday.
 
 When the user submits the form, and depending on the current date, the app will either:
 
