@@ -2,7 +2,7 @@ require 'sinatra/base'
 
 class Birthday_App < Sinatra::Base
   get '/' do
-    "Birthday App!"
+    erb(:index)
   end
 
   run! if app_file == $0
